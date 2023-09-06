@@ -1,2 +1,2 @@
 # class-projects
-Collection of all class projects completed during my masters
+Collection of all class projects
