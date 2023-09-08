@@ -12,7 +12,6 @@ import seaborn as sns
 
 """
 Mark Grivnin
-CS 677 - Project
 Classification of credit scores.
 """
 
