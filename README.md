@@ -1,2 +1,2 @@
-# class-projects
-Collection of all class projects
+# projects
+Collection of projects
